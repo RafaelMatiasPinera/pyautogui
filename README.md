@@ -1,6 +1,7 @@
 # pyautogui
 scripts para automatizar mouse y teclado
 
+----------------------------------------------------------------------
 import pyautogui
 import time
 
